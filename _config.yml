@@ -6,14 +6,11 @@ language: "" # language to set into html tag, default is en
 
 # User settings
 
-author: Wendell Adriel
+author: Willian Soares
 author-title: Full Stack Developer
-gravatar: d36a082aacb53b6f76869748fb4b81d4
-email: wendelladriel.ti@gmail.com
-twitter: wendell_adriel
-github: WendellAdriel
-googleplus: +WendellAdriel
-facebook: wendell.adriel.7
+gravatar: willssoares
+email: willsoares96@hotmail.com
+github: willsoares
 linkedin: wendelladrielti/en
 bio: "Brazilian developer. Game, music and technology lover.
       I graduated in Systems Analysis and Development. I'm a Zend Certified PHP Engineer and Scrum Fundamentals Certified. I love to study and learn new skills,
